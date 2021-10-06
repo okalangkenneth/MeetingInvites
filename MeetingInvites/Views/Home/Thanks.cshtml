@@ -1,0 +1,16 @@
+﻿
+
+
+@model MeetingInvites.Models.FarmerResponse
+@{ ViewBag.Title = "Thanks";}
+<h1>Thank you, @Model.Name</h1>
+<div class="lead">
+    @if (Model.WillAttend == true)
+    {
+@:It's great that you're coming. There will be drinks and eats served!
+@Html.Action("Attendees", "Home") }
+            else
+            {
+@:Sorry to hear that you can't make it, but thanks for letting us know.
+}
+</div>
