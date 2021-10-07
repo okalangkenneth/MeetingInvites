@@ -20,6 +20,7 @@ using Javascript. The data is then obtained via Ajax requests.I used Postman to 
 - Bootstrap
 - Jquery
 - Knockout
+- Javascript
 
 ## Screenshots
 ![Screenshot (11)](https://user-images.githubusercontent.com/68539411/136467462-6e9c7c56-9f98-4df6-a629-8efbff23ae7d.png)
