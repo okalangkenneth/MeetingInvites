@@ -22,7 +22,7 @@ A user is
 - Knockout
 
 ## Screenshots
-![Example screenshot](https://drive.google.com/drive/u/0/my-drive)
+![Example screenshot](https://drive.google.com/file/d/1D4h-99M-icJYnJFSVfTOL_pz66h4eeMd/view?usp=sharing)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
