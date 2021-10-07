@@ -22,7 +22,8 @@ A user is
 - Knockout
 
 ## Screenshots
-![Example screenshot](Screenshot(11).png)
+![Screenshot (11)](https://user-images.githubusercontent.com/68539411/136467462-6e9c7c56-9f98-4df6-a629-8efbff23ae7d.png)
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
