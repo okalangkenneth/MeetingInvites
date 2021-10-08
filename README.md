@@ -1,5 +1,5 @@
 # MeetingInvites
-This is a simple application whereby a user is prompted to fill in his/her details in order to confirm attendence of the general meeting. I demonstrate how to use ASP.NET Web API to add an HTTP web service to an MVC framework and consume the web service in the browser.
+This is a simple application whereby a user is prompted to fill in his/her details in order to confirm attendance of the general meeting. I demonstrate how to use ASP.NET Web API to add an HTTP web service to an MVC framework and consume the web service in the browser.
 I also created the client side functionality that consumes the web service.  The single HTML document created is requested by the browser, then manipulated and populated
 using Javascript. The data is then obtained via Ajax requests.I used Postman to test to test the web service.
 
